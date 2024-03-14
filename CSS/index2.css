@@ -1,0 +1,75 @@
+body{
+    background: #8cc461;
+    color: white;
+}
+
+.img{
+    margin-left: 25rem;
+    margin-top: 3rem;
+}
+
+.img1{
+    margin-left: -22rem;
+}
+
+.leftMain{
+    font-size: 2rem;
+    margin-left: 32rem;
+}
+
+.h4{
+    position: relative;
+    top: -2rem;
+}
+
+.button{
+    position: relative;
+    top: -4rem;
+    width: 42%;
+    border: 5px solid darkslategray;
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+    background: white;
+}
+
+
+.rightMain{
+    position: relative;
+    top: -30rem;
+    left: 63rem;
+    border: 5px solid white;
+    background: #004429;
+    text-align: center;
+    width: 15rem;
+    border-radius: 8px;
+    padding-left: 1rem;
+    padding-right: 2rem;
+}
+
+.x{
+    background: red;
+    height: 1rem;
+    padding: 0.8rem;
+    border-radius: 50%;
+    border: 7px solid white;
+    position: relative;
+    top: -55rem;
+    margin-left: 96%;
+}
+
+.rules{
+    position: relative;
+    top: -34rem;
+    margin-left: 78rem;
+    height: 1.5rem;
+    padding-top: 0.5rem;
+    border-radius: 8px;
+    border: 2px solid white;
+    padding-left: 1rem;
+    cursor: pointer;
+}
+
+.rightMainRules{
+    opacity: 0;
+}

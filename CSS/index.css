@@ -1,0 +1,198 @@
+body{
+    background: #8cc461;
+    color: white;
+}
+
+.upperMain{
+    border: 1px solid white;
+    width: 55%;
+    margin-left: 22rem;
+    margin-top: 3rem;
+    border-radius: 8px;
+    padding-left: 2rem;
+    display: flex;
+}
+
+.upperMain button{
+    background: white;
+    height: 5.2rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    border-radius: 8px;
+    width: 5rem;
+    border: 2px solid white;
+    margin-right: 1.5rem;
+}
+
+.upperDiv{
+    border: 1px solid white;
+    height: 5rem;
+    width: 9rem;
+    margin-top: 1rem;
+    margin-left: 20rem;
+    margin-right: 1rem;
+    border-radius: 8px;
+    background: white;
+    color: black;
+    font-size: 10px;
+    align-items: center;
+    padding-left: 0.6rem;
+    border: 2px solid white;
+}
+
+.score{
+    font-size: 2rem;
+    position: relative;
+    left: 0.7rem;
+}
+
+.score1{
+    font-size: 2rem;
+    position: relative;
+    left: 0.2rem;
+}
+
+.upperDiv1{
+    border: 1px solid white;
+    height: 5rem;
+    width: 8rem;
+    margin-top: 1rem;
+    border-radius: 8px;
+    background: white;
+    color: black;
+    font-size: 10px;
+    padding-left: 1.4rem;
+    border: 2px solid white;
+}
+
+.leftMain{
+    margin-top: 4rem;
+    margin-left: 30rem;
+    position: relative;
+}
+
+.fistImg img{
+    width: 5rem;
+    margin-top: 1rem;
+    margin-left: 7px;
+}
+
+.fistImg{
+    border: 12px solid #0074B6;
+    width: 6rem;
+    height: 6rem;
+    background: white;
+    border-radius: 50%;
+}
+
+.scImg img{
+    width: 3rem;
+    height: 4rem;
+    margin-top: 1rem;
+    margin-left: 25px;
+}
+
+.scImg{
+    position: relative;
+    top: -7.5rem;
+    left: 18rem;
+    border: 12px solid #BD00FF;
+    width: 6rem;
+    height: 6rem;
+    background: white;
+    border-radius: 50%;
+}
+
+.handImg img{
+    width: 4rem;
+    margin-top: 1rem;
+    margin-left: 18px;
+}
+
+.hr1{
+    width: 11rem;
+    height: 1rem;
+    background: darkslategray;
+    position: relative;
+    top: -20rem;
+    left: -14rem;
+    z-index: -1;
+}
+
+.hr2{
+    width: 11rem;
+    height: 1rem;
+    background: darkslategray;
+    position: relative;
+    transform: rotate(55deg);
+    top: -14rem;
+    left: -20rem;
+    z-index: -1;
+}
+
+.hr3{
+    width: 11rem;
+    height: 1rem;
+    background: darkslategray;
+    position: relative;
+    transform: rotate(-58deg);
+    top: -15rem;
+    left: -9rem;
+    z-index: -1;
+}
+
+.handImg{
+    position: relative;
+    left: 9rem;
+    top: -1rem;
+    border: 12px solid #FFA943;
+    width: 6rem;
+    height: 6rem;
+    background: white;
+    border-radius: 50%;
+}
+
+.rightMain{
+    position: relative;
+    top: -30rem;
+    left: 65rem;
+    border: 5px solid white;
+    background: #004429;
+    text-align: center;
+    width: 15rem;
+    border-radius: 8px;
+    padding-left: 1rem;
+}
+
+ul{
+    list-style-type: square;
+    padding: 1rem;
+    font-size: 12px;
+}
+
+.x{
+    background: red;
+    height: 1rem;
+    padding: 0.8rem;
+    border-radius: 50%;
+    border: 7px solid white;
+    position: relative;
+    top: -50rem;
+    margin-left: 96%;
+}
+
+.rules{
+    position: relative;
+    top: -34rem;
+    margin-left: 78rem;
+    height: 1.5rem;
+    padding-top: 0.5rem;
+    border-radius: 8px;
+    border: 2px solid white;
+    padding-left: 1rem;
+    cursor: pointer;
+}
+
+.rightMainRules{
+    opacity: 0;
+}
